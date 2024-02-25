@@ -1,2 +1,2 @@
 # NetflixClone
- A ui clone of netfix firs page 
+ A ui clone of netfix first page 
